@@ -1,4 +1,4 @@
-![EarthToolsMaker](../assets/images/etm-logo-text.png)
+[<img src="../assets/images/etm-logo-text.png" />](https://www.earthtoolsmaker.org/)
 
 Developing Open Source technology to address conservation and environmental
 challenges for wildlife and the planet.
