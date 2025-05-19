@@ -21,8 +21,8 @@ cooperation that transcends borders and disciplines.
 > natural world for future generations.
 
 
-🌎 Visit our [website](https://earthtoolsmaker.org)
-🔎 Read our [blog](https://www.earthtoolsmaker.org/posts/)
-📬 [Contact us](https://www.earthtoolsmaker.org/contact/)
-🧠 [Interact](https://www.earthtoolsmaker.org/spaces/) with our latest Machine Learning models
-👼 [Support our mission via a donation](https://www.earthtoolsmaker.org/donate/)
+- 🌎 Visit our [website](https://earthtoolsmaker.org)
+- 🔎 Read our [blog](https://www.earthtoolsmaker.org/posts/)
+- 📬 [Contact us](https://www.earthtoolsmaker.org/contact/)
+- 🧠 [Interact](https://www.earthtoolsmaker.org/spaces/) with our latest Machine Learning models
+- 👼 [Support our mission via a donation](https://www.earthtoolsmaker.org/donate/)
