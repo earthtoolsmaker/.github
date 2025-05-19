@@ -9,8 +9,6 @@ global conservation efforts. At EarthToolsMaker, we are committed to
 advancing the common good through innovative research and development
 initiatives.
 
-[<img src="../assets/images/etm-website.png" />](https://www.earthtoolsmaker.org/)
-
 Collaboration and transparency are essential for achieving our shared
 goal of preserving our planet's biodiversity. Through our dedication to
 open-source principles, we aim to foster a culture of innovation and
