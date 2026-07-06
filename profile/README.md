@@ -1,4 +1,4 @@
-[<img src="../assets/images/etm-logo-tex.png" />](https://www.earthtoolsmaker.org/)
+[<img src="../assets/images/etm-logo-text.png" />](https://www.earthtoolsmaker.org/)
 
 Open tools for the people protecting nature.
 
