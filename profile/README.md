@@ -1,10 +1,8 @@
 [<img src="../assets/images/etm-logo-text.png" />](https://www.earthtoolsmaker.org/)
 
-Conservation needs better technology. Most organizations can’t build it themselves.
+Open tools for the people protecting nature.
 
-We build it for them. Open-source machine learning tools for counting fish, detecting fires, identifying animals, and monitoring ecosystems. Free to use. Free to modify. Built with the people who use them.
-
-> Better tools. Better data. Better outcomes.
+We build open source technology that helps researchers and rangers monitor wildlife, detect threats, and protect ecosystems.
 
 - 🌎 Visit our [website](https://earthtoolsmaker.org)
 - 📖 Read our [blog](https://www.earthtoolsmaker.org/posts/)
